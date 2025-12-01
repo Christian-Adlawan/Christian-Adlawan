@@ -23,7 +23,7 @@ I'm an **IT Student**, **Aspiring Web Developer**, and **Badminton Enthusiast** 
 
 ---
 
-# **☎️ Contact**
+# **☎️ Let's Connect!**
 
 📧 **Email:** chan.adlawan00@gmail.com  
 📱 **Phone:** 0960-521-1145  
