@@ -13,6 +13,11 @@ I'm an **IT Student**, **Aspiring Web Developer**, and **Badminton Enthusiast** 
 **Relevant Coursework:** Web Programming, Database Systems, Computer Networks
 
 ---
+# **🎖️ Certifications**
+
+[SQL and Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/657c2e86c60c48abab478682853cdaa0)
+
+---
 
 # **🛠️ Skillset**
 
