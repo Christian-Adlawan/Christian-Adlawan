@@ -4,6 +4,8 @@ Hi there! Welcome to my GitHub profile — a space where I showcase my projects,
 
 IT Student • Aspiring Web Developer • Badminton Enthusiast
 
+---
+
 📚 Education
 
 New Era University
@@ -11,17 +13,17 @@ Bachelor of Science in Information Technology
 2024 – Present
 Relevant Coursework: Web Programming, Database Systems, Computer Networks
 
+---
+
 🛠️ Skillset
 
-HTML
+- HTML
+- CSS
+- Java
+- JavaScript
+- SQL
 
-CSS
-
-Java
-
-JavaScript
-
-SQL
+---
 
 ☎️ Contact
 
