@@ -1,16 +1,25 @@
-## Hi there 👋
+I am Christian P. Adlawan 👋
+IT Student | Badminton Enthusiast | Aspiring Web Developer
 
-<!--
-**Christian-Adlawan/Christian-Adlawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📒 Education
+Bachelor of Science in Information Technology
+New Era University (2024 - Present ) 
+Relevant Coursework: Web Programming, Database Systems, Networks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+High School
+
+Skillsets
+- HTML
+- CSS
+- Java
+- Javascript
+- SQL
+
+
+
+☎️ Contact
+Email: chan.adlawan00@gmail.com
+Phone: 0960-521-1145
+LinkedIn: Christian Adlawan
+Location: Quezon City, Philippines
