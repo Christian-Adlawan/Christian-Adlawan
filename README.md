@@ -13,19 +13,6 @@ Bachelor of Science in Information Technology
 2024 – Present
 Relevant Coursework: Web Programming, Database Systems, Computer Networks
 
-South East-Asia Institute of Trade and Technology
-
-Senior High School – STEM Strand
-2022 – 2024
-
-Batasan Hills National High School
-
-2018 – 2022
-
-President Corazon C. Aquino Elementary School
-
-2012 – 2018
-
 
 ---
 
