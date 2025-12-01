@@ -38,6 +38,6 @@ Email: chan.adlawan00@gmail.com
 
 Phone: 0960-521-1145
 
-LinkedIn: Christian Adlawan
+LinkedIn: Christian Adlawanhttps://www.linkedin.com/in/christian-adlawan-2bb276396/
 
 Location: Quezon City, Philippines
