@@ -1,37 +1,36 @@
-👋 Hi, I’m Christian P. Adlawan
+# **👋 Hi, I’m Christian P. Adlawan**
 
-Hi there! Welcome to my GitHub profile — a space where I showcase my projects, growth, and journey as an IT student and aspiring web developer. I’m passionate about building clean, functional, and user-friendly websites. I also enjoy playing badminton during my free time!
-
-IT Student • Aspiring Web Developer • Badminton Enthusiast
-
----
-
-📚 Education
-
-New Era University
-Bachelor of Science in Information Technology
-2024 – Present
-Relevant Coursework: Web Programming, Database Systems, Computer Networks
+Welcome to my GitHub profile!  
+I'm an **IT Student**, **Aspiring Web Developer**, and **Badminton Enthusiast** passionate about creating clean, functional, and user-focused web experiences.
 
 ---
 
-🛠️ Skillset
+# **📚 Education**
 
-- HTML
-- CSS
-- Java
-- JavaScript
-- SQL
+**🎓 New Era University**  
+**Bachelor of Science in Information Technology**  
+*2024 – Present*  
+**Relevant Coursework:** Web Programming, Database Systems, Computer Networks
 
 ---
 
-☎️ Contact
+# **🛠️ Skillset**
 
-Email: chan.adlawan00@gmail.com
+### **Languages & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,java,js,mysql" />
+</p>
 
-Phone: 0960-521-1145
-GitHub: Christian-Adlawan
+---
 
-LinkedIn: Christian Adlawan
+# **☎️ Contact**
 
-Location: Quezon City, Philippines
+📧 **Email:** chan.adlawan00@gmail.com  
+📱 **Phone:** 0960-521-1145  
+🐙 **GitHub:** [Christian-Adlawan](https://github.com/Christian-Adlawan)  
+💼 **LinkedIn:** [Christian Adlawan](https://www.linkedin.com/in/christian-adlawan-2bb276396/)  
+📍 **Location:** Quezon City, Philippines
+
+---
+
+## ⭐ Thanks for visiting my profile!
