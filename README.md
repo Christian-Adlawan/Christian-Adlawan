@@ -1,41 +1,35 @@
 👋 Hi, I’m Christian P. Adlawan
 
-Welcome to my GitHub profile!
-I'm an IT Student, Aspiring Web Developer, and Badminton Enthusiast passionate about creating clean, functional, and user-focused web experiences.
+Hi there! Welcome to my GitHub profile — a space where I showcase my projects, growth, and journey as an IT student and aspiring web developer. I’m passionate about building clean, functional, and user-friendly websites. I also enjoy playing badminton during my free time!
+
+IT Student • Aspiring Web Developer • Badminton Enthusiast
 
 📚 Education
 
-🎓 New Era University
+New Era University
 Bachelor of Science in Information Technology
 2024 – Present
 Relevant Coursework: Web Programming, Database Systems, Computer Networks
 
 🛠️ Skillset
-Languages & Tools
-<p> <img src="https://skillicons.dev/icons?i=html,css,java,js,mysql" /> </p>
-📊 GitHub Stats
-<p align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Christian-Adlawan&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Adlawan&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-🔗 Connect With Me
 
-📧 Email: chan.adlawan00@gmail.com
+HTML
 
-📱 Phone: 0960-521-1145
-🐙 GitHub: Christian-Adlawan
+CSS
 
-💼 LinkedIn: Christian Adlawan
+Java
 
-📍 Location: Quezon City, Philippines
+JavaScript
 
-🚀 About Me
+SQL
 
-🌱 Currently learning web development & improving my frontend skills
+☎️ Contact
 
-💻 Interested in building modern, responsive websites
+Email: chan.adlawan00@gmail.com
 
-🏸 Loves playing badminton during free time
+Phone: 0960-521-1145
+GitHub: Christian-Adlawan
 
-🎯 Goal: Become a full-stack web developer
+LinkedIn: Christian Adlawan
 
-⭐ Thanks for visiting my profile!
-
-If you like my work, feel free to ⭐ star my repositories!
+Location: Quezon City, Philippines
