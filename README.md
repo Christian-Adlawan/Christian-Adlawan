@@ -16,6 +16,8 @@ I'm an **IT Student**, **Aspiring Web Developer**, and **Badminton Enthusiast** 
 # **🎖️ Certifications**
 
 [SQL and Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/657c2e86c60c48abab478682853cdaa0)
+[Oracle Cloud Infrastructure 2025 Certified Foundations Associate Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=74A4DAF3F2218642FE13F467C1E1F40DE473ED1D84DA9E6CBF9C89C8E176FE67)
+[Oracle Certified Foundations Associate Certificate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC7909376&trackId=OCI25FNDCFA&key=0b14f52fc812ae612ae784b9dd8fd343f48eadba)
 
 ---
 
